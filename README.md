@@ -14,8 +14,9 @@ To get started with the Get Certificate App, follow these steps:
 
    1. Clone the repository
       
-      bash
+      ```
       git clone git@github.com:MAVeny426/CertiPort.git
+      ```
       
 🔧 Running Setup
  
@@ -23,29 +24,29 @@ To get started with the Get Certificate App, follow these steps:
    
    1. Install dependencies in server(backend) folder:
       
-       bash
+      ```
       npm install
-      
+      ```
    
    3. Start the backend application
       
-       bash
+      ```
       npm run dev
-      
+      ```
     
    *In second terminal
         
    1. Install dependencies in ui(frontend) folder:
       
-      bash
+      ```
       npm install
-      
+      ```
       
    3. Start the frontend application
       
-       bash
+      ```
       npm run dev
-      
+      ```
    ---
       
  🔑 Key Features
